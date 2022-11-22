@@ -5,11 +5,16 @@
 ### (2)
 **No. We will use unit test to test the output.**
 
-###
- **(3) No. I think since we are testing the message feature and that feature means you can write and send messages which means there will be more components related to the feature. A sigle unit testing will not be able to test that feature.**
+### (3)
+ **No. I think since we are testing the message feature and that feature means you can write and send messages which means there will be more components related to the feature. A sigle unit testing will not be able to test that feature.**
 
 
 ### (4)
 **Yes, since we are just testing the max length of the input which is jsut a basic function, unit testing is a proper way to do so.**
 
 
+### All Screen Shots
+
+ <img src="lab8-test.png">
+ <img src="sum-test.png">
+ <img src="unit-test.png">
